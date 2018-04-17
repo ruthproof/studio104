@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+****
+ *
+ * This is the RSS feed for the SEATTLE CENTRAL COLLEGE PODCAST
+ *
+ * Add episodes by copying all relevent <item> values
+ *
+ * IMPORTANT: For proper synchronization, enter updated file size and length
+ *  values for each <item> (episode)
+ *
+ * Ruth Mansoor, 2016
+ *
+****
+-->
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Seattle Central College Podcast</title>
+        <link>http://ruthmansoor.com/studio104/index.php</link>
+        <description>The Seattle Central College Podcast</description>
+        <language>en-us</language>
+        <copyright>Copyright 2016</copyright>
+        <pubDate>Sat, 16 Apr 2016 09:41:01 GMT</pubDate>
+        <docs>http://ruthmansoor.com/studio104/episodes/rss</docs>
+        <lastBuildDate>Sat, 16 Apr 2016 09:41:01 GMT</lastBuildDate>
+        <webMaster>ruth@ruthmansoor.com (Ruth Mansoor)</webMaster>
+        <itunes:author>Pappin/Mansoor</itunes:author>
+        <itunes:subtitle>The Seattle Central College Podcast is a joint community-effort offering current topics and items of interest to the Seattle Central College community.</itunes:subtitle>
+        <itunes:summary>Offering a cultivated and open symbiotic exchange of information, Jack and Ruth engage their topics and each other with 100% honesty and curiosity, ingredients for killer cocktails that are different every time.</itunes:summary>
+        <itunes:owner>
+           <itunes:name>Pappin/Mansoor</itunes:name>
+           <itunes:email>ruth@ruthmansoor.com</itunes:email>
+         </itunes:owner>
+         <itunes:explicit>No</itunes:explicit>
+         <itunes:image href="http://ruthmansoor.com/studio104/episodes/sccp.png"/>
+         <itunes:category text="Education">
+         </itunes:category>
+         <atom:link href="http://ruthmansoor.com/studio104/episodes/sccp.rss" rel="self" type="application/rss+xml" />
+<!--    <itunes:explicit>No</itunes:explicit>-->
+<!--
+<link>http://ruthmansoor.com/studio104/episodes/20160129_Episode_1.mp3</link>-->
+        <item>
+            <title>Episode 1 - "Inaugural podcast - The Final Frontier"</title>
+            <description>Episode 1.</description>
+            <pubDate>Fri, 29 Jan 2016 15:47:00 GMT</pubDate>
+            <guid>http://ruthmansoor.com/studio104/episodes/20160129_Episode_1.mp3</guid>
+             <enclosure url="http://ruthmansoor.com/studio104/episodes/20160129_Episode_1.mp3" length="29668000000"  type="audio/mpeg"/>
+            <itunes:summary>Jack and Ruth discuss a recent factory tour of Blue Origin in Kent, Washington. They discuss commercial space travel, Amazon, Jeff Bezos and hypothesize about the future of the economic world</itunes:summary>
+            <itunes:duration>00:24:17</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <itunes:author>Pappin/Mansoor</itunes:author>
+        </item>
+<!--            <link>http://ruthmansoor.com/studio104/episodes/20160205_Episode_2.mp3</link>-->
+            <item>
+            <title>Episode 2 - "Northwest vs. Midwest"</title>
+            <description>Episode 2.</description>
+             <pubDate>Fri, 05 Feb 2016 15:47:00 GMT</pubDate>
+            <guid>http://ruthmansoor.com/studio104/episodes/20160205_Episode_2.mp3</guid>
+            <enclosure url="http://ruthmansoor.com/studio104/episodes/20160205_Episode_2.mp3" length="40930000000"  type="audio/mpeg"/>
+            <itunes:summary>Ruth and Jack compare the differences between the Northwest and Midwest regions of the US. They discuss communication styles, social norms, wallet chains, cultural convergence and society’s revolving door of progress and regression.</itunes:summary>
+            <itunes:duration>00:34:28</itunes:duration>
+            <itunes:keywords>Blue Origins, Amazon, Jeff Bezos, Economy</itunes:keywords>
+            <itunes:author>Pappin/Mansoor</itunes:author>
+        </item>
+            <item>
+            <title>Episode 3 - "Modern Music Machine"</title>
+<!--            <link>http://ruthmansoor.com/studio104/episodes/20160219_Episode_3.mp3</link>-->
+            <description>Episode 3.</description>
+             <pubDate>Fri, 19 Feb 2016 15:47:00 GMT</pubDate>
+            <guid>http://ruthmansoor.com/studio104/episodes/20160219_Episode_3.mp3</guid>
+            <enclosure url="http://ruthmansoor.com/studio104/episodes/20160219_Episode_3.mp3" length="31618000000"  type="audio/mpeg"/>
+            <itunes:summary>Jack and Ruth discuss the Grammy Awards, hip-hop, Kendrick Lamar, Kanye West and attempt to decide the most influential female musician in modern music with one question: Beyonce or Taylor Swift?</itunes:summary>                   <itunes:duration>00:25:58</itunes:duration>
+            <itunes:keywords>Grammy Awards, Grammys, Kendrick Lamar, Kanye West, Beyonce, Taylor Swift</itunes:keywords>
+            <itunes:author>Pappin/Mansoor</itunes:author>
+        </item>
+<!--            <link>http://ruthmansoor.com/studio104/episodes/20160226_Episode_4.mp3</link>-->
+            <item>
+            <title>Episode 4 - "Transplant Blues - The 'Seattle Freeze'"</title>
+            <description>Episode 4.</description>
+            <pubDate>Fri, 26 Feb 2016 15:47:00 GMT</pubDate>
+            <guid>http://ruthmansoor.com/studio104/episodes/20160226_Episode_4.mp3</guid>
+            <enclosure url="http://ruthmansoor.com/studio104/episodes/20160226_Episode_4.mp3" length="33877000000"  type="audio/mpeg"/>
+            <itunes:summary>Ruth and Jack analyze the Seattle social phenomena called “The Seattle Freeze.” They discuss who is effected by the trend and the validity of resident complaints, possible sources of the antisocial behavior, and a few helpful insights from Justine Way, a Seattle Central College Humanities teacher.</itunes:summary>
+            <itunes:duration>00:26:22</itunes:duration>
+            <itunes:keywords>Seattle Freeze, Transplants</itunes:keywords>
+            <itunes:author>Pappin/Mansoor</itunes:author>
+        </item>
+<!--            <link>http://ruthmansoor.com/studio104/episodes/20160304_Episode_5.mp3</link>-->
+            <item>
+            <title>Episode 5 - "The Written Word"</title>
+            <description>Episode 5.</description>
+            <pubDate>Fri, 04 Mar 2016 15:47:00 GMT</pubDate>
+            <guid>http://ruthmansoor.com/studio104/episodes/20160304_Episode_5.mp3</guid>
+            <enclosure url="http://ruthmansoor.com/studio104/episodes/20160304_Episode_5.mp3" length="42627000000"  type="audio/mpeg"/>
+            <itunes:summary>Jack and Ruth compare notes on books they have read, Blood Meridian, White Noise and The Crying of Lot 49. They discuss what to look for in a trustworthy source and why they choose particular sources of their information over other media outlets.</itunes:summary>
+            <itunes:duration>00:32:54</itunes:duration>
+            <itunes:keywords>Blood Meridian, Cormac McCarthy, White Noise, The Crying of Lot 49</itunes:keywords>
+            <itunes:author>Pappin/Mansoor</itunes:author>
+        </item>
+<!--            <link>http://ruthmansoor.com/studio104/episodes/20160311_Episode_6.mp3</link>-->
+            <item>
+            <title>Episode 6 - "The Future of Seattle’s Economy "</title>
+            <description>Episode 6.</description>
+            <pubDate>Fri, 11 Mar 2016 15:47:00 GMT</pubDate>
+            <guid>http://ruthmansoor.com/studio104/episodes/20160311_Episode_6.mp3</guid>
+            <enclosure url="http://ruthmansoor.com/studio104/episodes/20160311_Episode_6.mp3" length="54220000000"  type="audio/mpeg"/>
+            <itunes:summary>Ruth and Jack predict the future of Seattle’s economic landscape and discuss teams - Amazon, Expedia, Blue Origin, Microsoft - and the scions of the current industries - Jeff Bezos, Bill Gates, Steve Jobs, Elon Musk and others, all of whom dot the pale green money shaded horizon. Also, how the New York Yankees and Ferrari are the same thing.</itunes:summary>
+            <itunes:duration>00:41:51</itunes:duration>
+            <itunes:keywords>Amazon, Expedia, Blue Origin, Microsoft, Jeff Bezos, Bill Gates, Steve Jobs, Elon Musk, New York Yankees, Ferrari</itunes:keywords>
+            <itunes:author>Pappin/Mansoor</itunes:author>
+        </item>
+<!--            <link>http://ruthmansoor.com/studio104/episodes/20160318_Episode_7.mp3</link>-->
+            <item>
+            <title>Episode 7 - "Setting Sale"</title>
+            <description>Episode 7.</description>
+             <pubDate>Fri, 18 Mar 2016 15:47:00 GMT</pubDate>
+            <guid>http://ruthmansoor.com/studio104/episodes/20160318_Episode_7.mp3</guid>
+            <enclosure url="http://ruthmansoor.com/studio104/episodes/20160318_Episode_7.mp3" length="46824000000"  type="audio/mpeg"/>
+            <itunes:summary>Jack and Ruth discuss growth hacks in education, Eastern Washington, emotional vs. logical thinking; and how rappers, politicians and salesmen wield the power of influence. Also, they discuss how people could potentially connect authentically with their environment to form a symbiotic exchange and improve the world.</itunes:summary>
+            <itunes:duration>00:35:53</itunes:duration>
+            <itunes:keywords>Education, Washington, Improving the world</itunes:keywords>
+            <itunes:author>Pappin/Mansoor</itunes:author>
+        </item>
+<!--            <link>http://ruthmansoor.com/studio104/episodes/20160415_Episode_8.mp3</link>-->
+            <item>
+            <title>Episode 8 - "Over the Next Hill"</title>
+            <description>Episode 8.</description>
+            <pubDate>Fri, 15 Apr 2016 15:47:00 GMT</pubDate>
+            <guid>http://ruthmansoor.com/studio104/episodes/20160415_Episode_8.mp3</guid>
+            <enclosure url="http://ruthmansoor.com/studio104/episodes/20160415_Episode_8.mp3" length="417116000000"  type="audio/mpeg"/>
+            <itunes:summary>Jack and Ruth describe how weekend warriors can enjoy the beautiful Pacific Northwest scenery on a budget: go outside. Everyone in the Northwest wants a their own piece of the Puget Sound area, so where can you find it? Also, Jack tells Ruth about his first love: Baseball.</itunes:summary>
+            <itunes:duration>00:27:06</itunes:duration>
+            <itunes:keywords>Pacific NW, Baseball, Mariners, Tigers, Sports, Future</itunes:keywords>
+            <itunes:author>Pappin/Mansoor</itunes:author>
+        </item>
+<!--            <link>http://ruthmansoor.com/studio104/episodes/20160415_Episode_9.mp3</link>-->
+        <item>
+            <title>Episode 9 - "Two Sides to Every Reality"</title>
+            <description>Episode 9.</description>
+            <pubDate>Fri, 29 Apr 2016 15:47:00 GMT</pubDate>
+            <guid>http://ruthmansoor.com/studio104/episodes/20160429_Episode_9.mp3</guid>
+            <enclosure url="http://ruthmansoor.com/studio104/episodes/20160429_Episode_9.mp3" length="39016000000"  type="audio/mpeg"/>
+            <itunes:summary>Jack, Ruth and Jequan discuss how the virtual reality devices of tomorrow will alter society. The philosophical conversation begs the question: “Will a virtual world build humanity’s pathway towards telepathy and immortality?” Plus, Jequan talks about a new radio station club at S.C.C. and commuting, where all humans must adapt to survive..</itunes:summary>
+            <itunes:duration>00:33:38</itunes:duration>
+            <itunes:keywords>Virtual Reality, I-5, Telepathy, Immortality, SCC Radio Station</itunes:keywords>
+            <itunes:author>Pappin/Mansoor</itunes:author>
+        </item>
+<!--            <link>http://ruthmansoor.com/studio104/episodes/20160513_Episode_10.mp3</link>-->
+        <item>
+        <title>Episode 10 - "Music and Mission"</title>
+            <description>Episode 10.</description>
+            <pubDate>Fri, 13 May 2016 09:06:00 GMT</pubDate>
+            <guid>http://ruthmansoor.com/studio104/episodes/20160513_Episode_10.mp3</guid>
+            <enclosure url="http://ruthmansoor.com/studio104/episodes/20160513_Episode_10.mp3" length="23319000000" type="audio/mpeg"/>
+            <itunes:summary>Ruth and Jequan talk about their favorite musicians and the impact music has made on their lives.</itunes:summary>
+            <itunes:duration>00:19:30</itunes:duration>
+            <itunes:keywords>Music, Kanye, Motown</itunes:keywords>
+            <itunes:author>Hayes/Mansoor</itunes:author>
+        </item>
+<!--
+<link>http://ruthmansoor.com/studio104/episodes/20160527_Episode_11.mp3</link>-->
+            <description>Episode 11.</description>
+            <item>
+            <title>Episode 11 - "Werk"</title>
+            <pubDate>Fri, 27 May 2016 09:06:00 GMT</pubDate>
+            <guid>http://ruthmansoor.com/studio104/episodes/20160527_Episode_11.mp3</guid>
+            <enclosure url="http://ruthmansoor.com/studio104/episodes/20160527_Episode_11.mp3" length="34415000000" type="audio/mpeg"/>
+            <itunes:summary>Ruth and Jack discuss the many facets of Good Work.</itunes:summary>
+            <itunes:duration>00:28:29</itunes:duration>
+            <itunes:keywords>Work, Temping, Contracts</itunes:keywords>
+            <itunes:author>Pappin/Mansoor</itunes:author>
+        </item>
+<!--
+<link>http://ruthmansoor.com/studio104/episodes/20160527_Episode_12.mp3</link>-->
+        <item>
+        <title>Episode 12 - "Our Similarities"</title>
+            <description>Episode 12.</description>
+            <pubDate>Thu, 02 June 2016 18:00:00 GMT</pubDate>
+            <guid>http://ruthmansoor.com/studio104/episodes/20160602_Episode_12_Huma_Mohibullah.mp3</guid>
+            <enclosure url="http://ruthmansoor.com/studio104/episodes/20160602_Episode_12_Huma_Mohibullah.mp3" length="33910965"
+                       type="audio/mpeg"/>
+            <itunes:summary>Professor Huma Mohibullah shares some of her ground-breaking research addressing practical considerations of practicing Muslims: we are more similar than we are different.</itunes:summary>
+            <itunes:duration>00:27:21</itunes:duration>
+            <itunes:keywords>Seattle Central, 9-11, Muslims, Diversity</itunes:keywords>
+            <itunes:author>Pappin/Mansoor</itunes:author>
+        </item>
+<!--            <link>http://ruthmansoor.com/studio104/episodes/20160527_Episode_13.mp3</link>-->
+        <item>
+            <title>Episode 13 - "Jas' Story"</title>
+            <description>Episode 13.</description>
+            <pubDate>Fri, 17 June 2016 18:00:00 GMT</pubDate>
+            <guid>http://ruthmansoor.com/studio104/episodes/20160602_Episode_13.mp3</guid>
+            <enclosure url="http://ruthmansoor.com/studio104/episodes/20160617_Episode_13.mp3" length="44527965"
+                       type="audio/mpeg"/>
+            <itunes:summary>Seattle Central Student Jas Panag shares his story of fortitude in the pursuit of personal justice.</itunes:summary>
+                <itunes:duration>00:36:10</itunes:duration>
+            <itunes:keywords>Seattle Central</itunes:keywords>
+                 <itunes:author>Pappin/Mansoor</itunes:author>
+        </item>
+<!--        <link>http://ruthmansoor.com/studio104/episodes/20160527_Episode_14.mp3</link>-->
+        <item>
+        <title>Episode 14 - "Women in Tech"</title>
+           <description>Episode 14.</description>
+           <pubDate>Tue, 19 July 2016 18:00:00 GMT</pubDate>
+           <guid>http://ruthmansoor.com/studio104/episodes/20160719_Episode_14.mp3</guid>
+           <enclosure url="http://ruthmansoor.com/studio104/episodes/20160719_Episode_14.mp3" length="22089728"
+                      type="audio/mpeg"/>
+           <itunes:summary>Seattle Central's Tarah Wheeler Van Vlack speaks about her new book, "Women in Tech",  a collaboration with others highlighting feminine perspectives in today's job-market, and ways for women to thrive.</itunes:summary>
+           <itunes:duration>00:17:52</itunes:duration>
+           <itunes:keywords>Seattle Central</itunes:keywords>
+           <itunes:author>Pappin/Mansoor</itunes:author>
+       </item>
+    </channel>
+</rss>
